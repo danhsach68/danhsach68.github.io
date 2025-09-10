@@ -3,8 +3,8 @@ layout: post
 title: "Cập Nhật Tiến trình tòa án thụ lý và lịch xử liên quan vụ Vin kiện 68 Cá Nhân và Tổ Chức"
 date:   2025-09-09 4:33:21 +0000
 categories: ['News','Sci-Tech']
-excerpt_image: https://github.com/user-attachments/assets/c7e92026-6219-45dd-80c6-300eaf654658
-image: https://github.com/user-attachments/assets/c7e92026-6219-45dd-80c6-300eaf654658
+excerpt_image: 'https://github.com/user-attachments/assets/c7e92026-6219-45dd-80c6-300eaf654658'
+image: 'https://github.com/user-attachments/assets/c7e92026-6219-45dd-80c6-300eaf654658'
 ---
 Dựa trên thông tin được cập nhật đến thời điểm này, **chưa có tiến trình tòa án cụ thể hoặc lịch xử nào được công bố liên quan đến vụ kiện Vingroup kiện 68 đối tượng**.
 
