@@ -6,7 +6,7 @@ categories: ['News','Sci-Tech']
 excerpt_image: 'https://github.com/user-attachments/assets/29f2d024-9fc0-4c54-9914-5735987a44e3'
 image: https://github.com/user-attachments/assets/29f2d024-9fc0-4c54-9914-5735987a44e3
 ---
-Dựa trên thông tin tìm được, **chưa có tiến trình tòa án cụ thể hoặc lịch xử nào được công bố liên quan đến vụ kiện Vingroup kiện 68 đối tượng**.
+Dựa trên thông tin được cập nhật đến thời điểm này, **chưa có tiến trình tòa án cụ thể hoặc lịch xử nào được công bố liên quan đến vụ kiện Vingroup kiện 68 đối tượng**.
 
 ## Tình trạng hiện tại của vụ kiện
 
