@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kiểm tra tiến trình tòa án và lịch xử liên quan vụ kiện"
+title: "Cập Nhật Tiến trình tòa án thụ lý và lịch xử liên quan vụ Vin kiện 68 Cá Nhân và Tổ Chức"
 date:   2025-09-09 4:33:21 +0000
 categories: ['News','Sci-Tech']
 excerpt_image: 'https://github.com/user-attachments/assets/29f2d024-9fc0-4c54-9914-5735987a44e3'
